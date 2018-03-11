@@ -65,7 +65,7 @@ public class Principal {
 		al.add(0,1);
 		al.set(0,2);
 		al.forEach(i ->al.set(0,5));
-		System.out.println("Fin");
+		System.out.println("Fin ");
 	}
 
 
